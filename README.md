@@ -11,7 +11,5 @@ Instructions to Run:
 Ensure Python 3.x is installed on your system.
 Save the index.py script to your computer.
 Run the script from the command line:
-bash
-Copy code
 python index.py
 A GUI window will appear. Add tasks using the input field and "Add" button. Delete selected tasks by clicking the "Delete" button.
