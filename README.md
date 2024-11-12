@@ -6,6 +6,7 @@ The To-Do List Application is a user-friendly GUI tool built using tkinter. It a
 Requirements:
 Python 3.x
 tkinter (included with Python)
+
 Instructions to Run:
 Ensure Python 3.x is installed on your system.
 Save the index.py script to your computer.
