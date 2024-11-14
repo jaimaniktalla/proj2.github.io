@@ -1,15 +1,19 @@
 # proj2
 
 Description:
-The To-Do List Application is a user-friendly GUI tool built using tkinter. It allows users to add, view, and delete tasks, making it an effective tool for task management.
+The Markdown to HTML Converter takes markdown-formatted text as input and converts it into HTML format. The GUI is built using tkinter, and the markdown library handles the conversion process.
 
 Requirements:
 Python 3.x
 tkinter (included with Python)
+markdown library (install with pip)
 
 Instructions to Run:
 Ensure Python 3.x is installed on your system.
-Save the index.py script to your computer.
+Install the markdown library:
+pip install markdown
+Save the markdown_converter.py script to your machine.
 Run the script from the command line:
-python index.py
-A GUI window will appear. Add tasks using the input field and "Add" button. Delete selected tasks by clicking the "Delete" button.
+python markdown_converter.py
+Enter markdown text in the GUI's input field and click the "Convert" button to see the HTML output.
+
